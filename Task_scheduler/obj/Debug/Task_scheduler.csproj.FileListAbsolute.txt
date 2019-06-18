@@ -1,0 +1,12 @@
+D:\triod315\tasks\Task_scheduler\Task_scheduler\bin\Debug\Task_scheduler.exe.config
+D:\triod315\tasks\Task_scheduler\Task_scheduler\bin\Debug\Task_scheduler.exe
+D:\triod315\tasks\Task_scheduler\Task_scheduler\bin\Debug\Task_scheduler.pdb
+D:\triod315\tasks\Task_scheduler\Task_scheduler\obj\Debug\Task_scheduler.csprojAssemblyReference.cache
+D:\triod315\tasks\Task_scheduler\Task_scheduler\obj\Debug\Task_scheduler.Properties.Resources.resources
+D:\triod315\tasks\Task_scheduler\Task_scheduler\obj\Debug\Task_scheduler.csproj.GenerateResource.cache
+D:\triod315\tasks\Task_scheduler\Task_scheduler\obj\Debug\Task_scheduler.csproj.CoreCompileInputs.cache
+D:\triod315\tasks\Task_scheduler\Task_scheduler\obj\Debug\Task_scheduler.exe
+D:\triod315\tasks\Task_scheduler\Task_scheduler\obj\Debug\Task_scheduler.pdb
+D:\triod315\tasks\Task_scheduler\Task_scheduler\obj\Debug\Task_scheduler.Form1.resources
+D:\triod315\tasks\Task_scheduler\Task_scheduler\obj\Debug\Task_scheduler.Teacher.resources
+D:\triod315\tasks\Task_scheduler\Task_scheduler\obj\Debug\Task_scheduler.SubjectForm.resources
